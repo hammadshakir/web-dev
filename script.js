@@ -1,25 +1,43 @@
-let city = "Bahawalpur"
-console.log(city)
+let a = 5
+let b = 3
 
-let name = "hammad shakir"
-console.log(name)
+//Arithimtics Operator
 
-var hammad = "from bahawalpur"
+// console.log(a+b)//6
+// console.log(a-b)//-2
+// console.log(a*b)//8
+// console.log(a/b)//0
+// console.log(a%b)//0
+// console.log(a**b)//16
 
-let digit = 12+12
-
-let office = `gemnixx`
-
-let bool = true
-
-let adult = false
-
-let student1 = undefined
-
-let student2 = null
-
-let great = 23479837986817n
+// a = 10
+// a++
 
 
+//comparison operator
 
-let oFfice = "gemnixxx"
+// console.log(a>4)
+// console.log(a<4)
+// console.log(a>=10)
+// console.log(a<=10)
+
+
+// logical operator
+
+
+// let c = a<=5 && b==3
+
+
+// let c = a>=5 || b==13
+// console.log(c)
+
+// console.log(!true)//false
+// console.log(!false)
+
+
+console.log(1 && 0)
+
+
+
+
+
