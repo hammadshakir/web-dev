@@ -1,43 +1,36 @@
-let a = 5
-let b = 3
+// let age = "18";
 
-//Arithimtics Operator
+// let c = age >= 18 && age < 50
 
-// console.log(a+b)//6
-// console.log(a-b)//-2
-// console.log(a*b)//8
-// console.log(a/b)//0
-// console.log(a%b)//0
-// console.log(a**b)//16
-
-// a = 10
-// a++
+// if (age == 18) {
+//   console.log("True Value");
+// }else {
+//   console.log("False Value");
+// }
 
 
-//comparison operator
+// let trafficLight = "greeN"
 
-// console.log(a>4)
-// console.log(a<4)
-// console.log(a>=10)
-// console.log(a<=10)
-
-
-// logical operator
+// if(trafficLight == "green"){
+//     console.log("you can walk")
+// }else{
+//     console.log("please stop")
+// }
 
 
-// let c = a<=5 && b==3
+// let age = prompt("Enter your age")
 
+// if(age > 18){
+//     console.log("you are adult")
+// }else{
 
-// let c = a>=5 || b==13
-// console.log(c)
+//     console.log("you are not adult")
 
-// console.log(!true)//false
-// console.log(!false)
-
-
-console.log(1 && 0)
+// }
 
 
 
+let (age = 18);
+ 
 
 
