@@ -1,39 +1,28 @@
-// console.log("hammad");
-// console.log("hammad");
-// console.log("hammad");
-// console.log("hammad");
-// console.log("hammad");
-// console.log("hammad");
+// let name = "hammad "
 
-// for (let i = 1;i < 100; i++) {
-//   console.log("hammad");
-// }
+// console.log(name.length)//finding length of string
 
-// console.log(i)
+// console.log(name.toLowerCase())
+// console.log(name.toUpperCase())
 
-//while loop
+// let str = "   hammad    "
 
-// let i = 1;
+// str.trim() // remove spaces
 
-// while (i < 5) {
-//   console.log(i)
-//   i++;
-// }
 
-// console.log("after execution")
-// console.log(i)
+// name.includes("z") // check values and return boolen values
 
-//do while loop
+// name.slice(1,5)//return peice of string
 
-// let i = 4;
 
-// do {
-//   console.log("hammad");
-//   i++;
-// } while (i <= 5);
+// name.replace("ad","hello")//chnage string value
 
-//reverse number
+// name.indexOf("d")
 
-for (let i = 10; i >= 1; i--) {
-  console.log(i);
-}
+// name.charAt(5)
+
+// // name = name.replaceAll("a","C")
+
+
+
+
