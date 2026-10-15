@@ -1,28 +1,48 @@
-// let name = "hammad "
+// students[2] = "hammad"
 
-// console.log(name.length)//finding length of string
+// students[2]
 
-// console.log(name.toLowerCase())
-// console.log(name.toUpperCase())
+// const students = ["abdullah","ahmed","faizan"]
 
-// let str = "   hammad    "
+// let arr1 = [10,20,30]
+// let arr2 = arr1
 
-// str.trim() // remove spaces
+// arr2[0]=1000
+
+// console.log(arr2)//[1000,20,30]
+
+// console.log(arr1)//[10,20,30]
+
+// students.push("hammad") //add element
+
+// students.pop() //[[remove i last]]
+
+// let students = ["abdullah","ahmed","faizan","add","name"]
+
+// console.log(students[0])
+// console.log(students[1])
+// console.log(students[2])
+
+// for(let i = 0 ; i < students.length;i++){
+//     console.log(students[i])
+// }
+
+// let arr = [
+//   ["hammad", "hamza"],
+//   ["abdulah", "sjayan"],
+//   ["wasay", "ahmed"],
+// ];
 
 
-// name.includes("z") // check values and return boolen values
+// arr[0][0]//hammad
+// arr[1][1]//shayan
 
-// name.slice(1,5)//return peice of string
-
-
-// name.replace("ad","hello")//chnage string value
-
-// name.indexOf("d")
-
-// name.charAt(5)
-
-// // name = name.replaceAll("a","C")
+let arr = [1,2,3,4,5,6,7,8,9,10]
+let num = 2
 
 
-
-
+for (let i = 0; i < arr.length; i++) {
+    if(arr[i]==num)
+        arr.splice(arr[i],1)
+    console.log(arr)
+}
