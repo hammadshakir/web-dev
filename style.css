@@ -1,0 +1,12 @@
+.pStyle{
+    background-color: yellow;
+    color: green;
+}
+
+.container{
+    background-color: yellowgreen;
+    color: black;
+    padding: 100px;
+    height: 200px;
+    width: 200px;
+}
