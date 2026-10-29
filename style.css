@@ -1,4 +1,17 @@
+.box{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+}
+
 .main{
-background-color: red;
-padding: 100px;
+    display: inline;
+    justify-content: center;
+    align-items: center;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
